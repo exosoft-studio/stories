@@ -3,36 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --color1 : #100f2a;
-  --color2: #f1e9da;
-  --color3 : #313e50;
-  --color4: #3a435e;
+  --color1 : #3a435e;
+  --color2: #fffefb;
+  --color3 : #B4CEE6;
+  --color4: #c7def3;
 }
 
 body {
   background-color: var(--color2);
-}
-
-@font-face {
-  /* font-family: 'Montserrat';
-  src: url('../public/font/Montserrat/Montserrat-Medium.ttf'); */
-  /* src: url('../public/font/Montserrat/Montserrat-Black.ttf');
-  src: url('../public/font/Montserrat/Montserrat-BlackItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Bold.ttf');
-  src: url('../public/font/Montserrat/Montserrat-BoldItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-ExtraBold.ttf');
-  src: url('../public/font/Montserrat/Montserrat-ExtraBoldItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-ExtraLightItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-ExtraLight.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Italic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Light.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Medium.ttf');
-  src: url('../public/font/Montserrat/Montserrat-MediumItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Regular.ttf');
-  src: url('../public/font/Montserrat/Montserrat-SemiBold.ttf');
-  src: url('../public/font/Montserrat/Montserrat-SemiBoldItalic.ttf');
-  src: url('../public/font/Montserrat/Montserrat-Thin.ttf');
-  src: url('../public/font/Montserrat/Montserrat-ThinItalic.ttf'); */
 }
 
 @layer utilities {

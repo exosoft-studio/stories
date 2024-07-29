@@ -1,11 +1,12 @@
-import Section from "../../components/partials/section";
+
+import Section from "../../../components/partials/section";
 
 
 export default function StoryPage() {
   return (
     <main className="text-2xl lg:text-3xl">
       <Section className="flex flex-col">
-        <h1 className="text-6xl text-color3">Stories</h1> 
+        <h1 className="text-6xl text-color3">Histoire</h1> 
         <p className="text-2xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec feugiat tellus, non elementum ante. Curabitur ac lacus id ante interdum consectetur quis non metus. Praesent consequat viverra diam vel pharetra. Duis libero est, mattis suscipit volutpat quis, porta a odio. Pellentesque sit amet consequat metus, at viverra lectus. Sed at dui dignissim, placerat diam eu, mollis tellus. Duis gravida turpis a ipsum egestas mollis. Sed aliquet eros rhoncus ligula aliquam sodales. Donec sit amet magna libero. Praesent eu efficitur nibh. Curabitur vel lobortis ipsum. Praesent congue sapien vel metus ultricies consequat sit amet ut tortor. Fusce eu leo ut magna aliquet rhoncus. Cras aliquet hendrerit tortor, id ullamcorper quam mollis at.
           Aenean nec nibh leo. Mauris ac eros elementum, tristique tellus eget, volutpat tellus. Ut eu ante eget justo consequat condimentum a in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis volutpat porttitor nunc, id cursus quam suscipit id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi urna neque, lacinia eget magna ac, efficitur auctor felis. Vivamus eu ante lacinia, accumsan ante malesuada, condimentum nulla. Aenean ac nunc dapibus, tincidunt velit sit amet, rutrum arcu. In nibh eros, scelerisque eu sollicitudin a, imperdiet quis nunc. Nullam nec odio non nisi ultrices rhoncus et sed mi. Quisque erat eros, eleifend non viverra pulvinar, condimentum at nibh. Donec nec massa ex. Etiam id mi est.
 
