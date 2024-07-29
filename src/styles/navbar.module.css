@@ -1,0 +1,28 @@
+
+.imgNav {
+  width: 130px;
+  height: 90px;
+}
+
+.desktopMenu {
+  display: none;
+}
+
+.mobileMenu {
+  display: block;
+}
+
+@media (min-width: 1024px) {
+  .imgNav {
+    width: 200px;
+    height: 150px;
+  }
+
+  .desktopMenu {
+    display: block;
+  }
+
+  .mobileMenu {
+    display: none;
+  }
+}
